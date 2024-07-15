@@ -16,12 +16,13 @@ ZXing library for QR and barcode processing.
 Outputs
 Home Page: Clicking on the “Let’s Get Started “ button leads to the activity page.
 
-![image](https://github.com/user-attachments/assets/84efe20c-ec3f-4400-b593-df6400fadaa1)   ![image](https://github.com/user-attachments/assets/0d377a71-cde9-4740-b154-dd3df3975e77)
+![image](https://github.com/user-attachments/assets/84efe20c-ec3f-4400-b593-df6400fadaa1)         ![image](https://github.com/user-attachments/assets/0d377a71-cde9-4740-b154-dd3df3975e77)
 
-**QR CODE GENERATOR**
+            **QR CODE GENERATOR**
 ![image](https://github.com/user-attachments/assets/97197acf-d85b-4298-8bb6-6bdda2729362)
 
-**Bar Code generator**
-![image](https://github.com/user-attachments/assets/a408b680-1c4f-4fca-89e8-db0f7188dfa9)
+
+            **Bar Code generator**
+ ![image](https://github.com/user-attachments/assets/a408b680-1c4f-4fca-89e8-db0f7188dfa9)
 
 
